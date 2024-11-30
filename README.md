@@ -6,11 +6,10 @@ Check this app!
 Change the look of your car from this:
 
 
-![maluch-red](https://github.com/user-attachments/assets/6f3ec430-c954-4037-b1ed-bbf5fb2c11cd)
+![corvette](https://github.com/user-attachments/assets/7c6f26f5-a8b1-48f7-be35-289667e298c9)
 
 
 into this (for example)
 
-
-![maluch-blue](https://github.com/user-attachments/assets/6f63cee0-83a5-4043-a415-0e68a8757c55)
+![korweta](https://github.com/user-attachments/assets/18532dcb-4542-4ece-98f0-ef59cef5dc4b)
 
