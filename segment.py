@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 
 # Wczytanie obrazu
-image = cv2.imread('maluch-czarny.png')
+image = cv2.imread('merc.jpg')
 image_resized = cv2.resize(image, (600, 400))  # Zmiana rozmiaru dla łatwiejszego przetwarzania
 
 # Konwersja do przestrzeni kolorów HSV (opcjonalne, ale może być bardziej efektywne)
